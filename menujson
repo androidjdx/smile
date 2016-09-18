@@ -1,22 +1,68 @@
 {
     "lists": [
-        "金馆长斗图",
-        "金馆长熊猫",
-        "金馆长恶搞QQ",
-        "傅园慧",
-        "金馆长",
-        "尔康",
-        "费玉清",
-        "傅园慧",
-        "熊本熊",
-        "太子妃升职记",
-        "太阳的后裔",
-        "捉妖记",
-        "芈月传刘涛",
-        "小芈月刘楚恬",
-        "t-ara",
-        "主播",
-        "猫猫",
-        "狂三"
+        {
+            "menu": "金馆长斗图",
+            "menuid":"jgzdm" 
+        },
+        {
+            "menu": "金馆长熊猫",
+            "menuid":"jgzxm" 
+        },
+        {
+            "menu": "金馆长恶搞QQ",
+            "menuid":"jgzegqq" 
+        },
+         {
+            "menu": "傅园慧",
+            "menuid":"fyh" 
+        },
+        {
+            "menu": "尔康",
+            "menuid":"ek" 
+        },
+        {
+            "menu": "费玉清",
+            "menuid":"fyq" 
+        },
+        {
+            "menu": "熊本熊",
+            "menuid":"xbx" 
+        },
+        {
+            "menu": "太子妃升职记",
+            "menuid":"tzfszj" 
+        },
+        {
+            "menu": "太阳的后裔",
+            "menuid":"tydhy" 
+        },
+        {
+            "menu": "捉妖记",
+            "menuid":"zyj" 
+        },
+        {
+            "menu": "芈月传刘涛",
+            "menuid":"fyzlt" 
+        },
+        {
+            "menu": "小芈月刘楚恬",
+            "menuid":"xfylct" 
+        },
+        {
+            "menu": "t-ara",
+            "menuid":"tara" 
+        },
+        {
+            "menu": "主播",
+            "menuid":"zb" 
+        },
+        {
+            "menu": "猫猫",
+            "menuid":"maomao" 
+        },
+        {
+            "menu": "狂三",
+            "menuid":"ks" 
+        }
     ]
 }
