@@ -45,20 +45,8 @@
             "menuid":"xfylct" 
         },
         {
-            "menu": "t-ara",
-            "menuid":"tara" 
-        },
-        {
-            "menu": "主播",
-            "menuid":"zb" 
-        },
-        {
             "menu": "猫猫",
             "menuid":"maomao" 
-        },
-        {
-            "menu": "狂三",
-            "menuid":"ks" 
         }
     ]
 }
